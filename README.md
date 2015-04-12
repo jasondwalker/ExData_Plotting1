@@ -11,5 +11,5 @@ This repo contains the submission documents for coursera Exploratory Data Analys
 The R code requires that the dataset be uncompressed in the working directory.
 
 The repo also contains 
-1. The original readme file, now renamed Original README.md
-2. The original graphics examples, in a folder named "figure"
+* The original readme file, now renamed Original README.md
+* The original graphics examples, in a folder named "figure"
